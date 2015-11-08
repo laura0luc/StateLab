@@ -14,6 +14,7 @@
 		8D0459681BD3699C007686B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D0459661BD3699C007686B8 /* LaunchScreen.storyboard */; };
 		8D0459731BD3699C007686B8 /* State_LabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0459721BD3699C007686B8 /* State_LabTests.swift */; };
 		8D04597E1BD3699D007686B8 /* State_LabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D04597D1BD3699D007686B8 /* State_LabUITests.swift */; };
+		8D04598C1BD40F42007686B8 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D04598B1BD40F42007686B8 /* smiley.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8D0459791BD3699C007686B8 /* State LabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "State LabUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D04597D1BD3699D007686B8 /* State_LabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_LabUITests.swift; sourceTree = "<group>"; };
 		8D04597F1BD3699D007686B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D04598B1BD40F42007686B8 /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smiley.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		8D04595C1BD3699C007686B8 /* State Lab */ = {
 			isa = PBXGroup;
 			children = (
+				8D04598B1BD40F42007686B8 /* smiley.png */,
 				8D04595D1BD3699C007686B8 /* AppDelegate.swift */,
 				8D04595F1BD3699C007686B8 /* ViewController.swift */,
 				8D0459611BD3699C007686B8 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D04598C1BD40F42007686B8 /* smiley.png in Resources */,
 				8D0459681BD3699C007686B8 /* LaunchScreen.storyboard in Resources */,
 				8D0459651BD3699C007686B8 /* Assets.xcassets in Resources */,
 				8D0459631BD3699C007686B8 /* Main.storyboard in Resources */,
